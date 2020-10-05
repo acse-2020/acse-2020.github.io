@@ -1,0 +1,24 @@
+- file: README.md
+- chapter: General Information
+  sections:
+  - title: introductory Materials
+    url: https://acse-2020.github.io/introduction/
+  - title: Course Software
+    url: https://acse-2020.github.io/introduction/software.html
+- chapter: "Term 1"
+  sections:
+#    - title: "ACSE 1: Modern Programming Methods"
+#      url: https://acse-2020.github.io/ACSE-1/
+    - file: ACSE1.md
+    - file: ACSE2.md
+    - file: ACSE3.md
+- chapter: "Term 2"
+  sections:
+    - file: ACSE4.md
+    - file: ACSE5.md
+    - file: ACSE6.md
+    - file: ACSE7.md
+- chapter: "Term 3"
+  sections:
+    - file: ACSE8.md
+    - file: ACSE9.md
