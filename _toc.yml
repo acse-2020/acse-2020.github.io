@@ -7,8 +7,8 @@
     url: https://acse-2020.github.io/introduction/software.html
 - chapter: "Term 1"
   sections:
-#    - title: "ACSE 1: Modern Programming Methods"
-#      url: https://acse-2020.github.io/ACSE-1/
+    - title: "ACSE 1: Modern Programming Methods"
+      url: https://acse-2020.github.io/ACSE-1/
     - file: ACSE1.md
     - file: ACSE2.md
     - file: ACSE3.md
