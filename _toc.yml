@@ -5,6 +5,8 @@
     url: https://acse-2020.github.io/introduction/
   - title: Course Software
     url: https://acse-2020.github.io/introduction/software.html
+  - title: Permission to Access Department
+    file: DepartmentalAccess.md
 - chapter: "Term 1"
   sections:
     - title: "ACSE 1: Modern Programming Methods"
